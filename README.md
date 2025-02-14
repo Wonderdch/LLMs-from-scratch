@@ -167,3 +167,7 @@ BibTeX entry:
   github       = {https://github.com/rasbt/LLMs-from-scratch}
 }
 ```
+
+---
+
+整本书的阅读体验非常流畅，通过结合代码实战，我收获颇丰 📚💻。接下来的实战目标是挑战并完成 [书生大模型实战营](https://github.com/InternLM/Tutorial) 💪🔥，期待在实践中进一步提升自己的技能！🚀
